@@ -6,8 +6,8 @@
 //
 
 #define SOCI_SQLITE3_SOURCE
-#include "soci-sqlite3.h"
-#include "error.h"
+#include "soci/sqlite3/soci-sqlite3.h"
+#include "soci/error.h"
 #include <cstring>
 #include <cassert>
 

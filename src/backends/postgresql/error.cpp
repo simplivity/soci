@@ -6,8 +6,8 @@
 //
 
 #define SOCI_POSTGRESQL_SOURCE
-#include "soci-postgresql.h"
-#include "error.h"
+#include "soci/postgresql/soci-postgresql.h"
+#include "soci/error.h"
 #include <cstring>
 #include <cassert>
 

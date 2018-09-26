@@ -5,9 +5,9 @@
 // http://www.boost.org/LICENSE_1_0.txt)
 //
 
-#include "soci.h"
-#include "soci-odbc.h"
-#include "common-tests.h"
+#include "soci/soci.h"
+#include "soci/odbc/soci-odbc.h"
+#include "test/common-tests.h"
 #include <iostream>
 #include <string>
 #include <cassert>

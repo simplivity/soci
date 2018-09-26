@@ -6,9 +6,9 @@
 //
 
 #define SOCI_FIREBIRD_SOURCE
-#include "soci-firebird.h"
-#include "error-firebird.h"
-#include "session.h"
+#include "soci/firebird/soci-firebird.h"
+#include "soci/firebird/error-firebird.h"
+#include "soci/session.h"
 #include <locale>
 #include <map>
 #include <sstream>

@@ -6,11 +6,11 @@
 //
 //
 
-#include "soci.h"
-#include "soci-firebird.h"
-#include "error-firebird.h"            // soci::details::Firebird::throw_iscerror()
-#include "common-tests.h"
-#include "common.h"
+#include "soci/soci.h"
+#include "soci/firebird/soci-firebird.h"
+#include "soci/firebird/error-firebird.h"            // soci::details::Firebird::throw_iscerror()
+#include "test/common-tests.h"
+#include "soci/firebird/common.h"
 #include <iostream>
 #include <string>
 #include <cassert>

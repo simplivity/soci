@@ -5,8 +5,8 @@
 // http://www.boost.org/LICENSE_1_0.txt)
 //
 
-#include "common.h"
-#include "soci-backend.h"
+#include "soci/mysql/common.h"
+#include "soci/soci-backend.h"
 #include <ciso646>
 #include <cstdlib>
 #include <cstring>

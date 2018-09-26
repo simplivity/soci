@@ -7,9 +7,9 @@
 //
 
 #define SOCI_MYSQL_SOURCE
-#include "soci-mysql.h"
-#include <soci-platform.h>
-#include "common.h"
+#include "soci/mysql/soci-mysql.h"
+#include "soci/soci-platform.h"
+#include "soci/mysql/common.h"
 // std
 #include <cassert>
 #include <ciso646>

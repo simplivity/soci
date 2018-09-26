@@ -6,9 +6,9 @@
 //
 
 #define soci_ORACLE_SOURCE
-#include "soci-oracle.h"
-#include "statement.h"
-#include "error.h"
+#include "soci/oracle/soci-oracle.h"
+#include "soci/statement.h"
+#include "soci/oracle/error.h"
 #include <soci-platform.h>
 #include <cctype>
 #include <cstdio>

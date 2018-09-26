@@ -6,8 +6,8 @@
 //
 
 #define SOCI_ORACLE_SOURCE
-#include "soci-oracle.h"
-#include "error.h"
+#include "soci/oracle/soci-oracle.h"
+#include "soci/oracle/error.h"
 #include <limits>
 #include <sstream>
 
